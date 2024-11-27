@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\Limonist\Desktop\GuessGame\GuessGame\GuessGame\Game.cpp(27,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  GuessGame.vcxproj -> C:\Users\Limonist\Desktop\GuessGame\GuessGame\x64\Debug\GuessGame.exe
